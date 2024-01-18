@@ -1,0 +1,6 @@
+Open the FIle:
+
+Run in the Terminal -> [nodemon app / node app.js]
+Open Atlas MongoDB and connect 
+Open - http://localhost:3000/blogs
+
